@@ -1,3 +1,4 @@
+#This is a long and ugly function.
 #def letter_count(str)
 #hash = {}
 #i = 0
@@ -15,6 +16,7 @@
 #	return hash
 #end
 
+#This is a short and clean function that does exactly the same thing as the one above.
 def letter_count(str)
 counts = Hash.new(0)
 
